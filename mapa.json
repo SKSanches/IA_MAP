@@ -1,0 +1,10 @@
+{
+  "inicio": [0, 1],
+  "objetivo": [4, 1],
+  "custos": [
+    [null, 1, null, 1, null],
+    [1, 9, 5, 9, 1],
+    [1, null, null, null, 1],
+    [1, 1, 1, 1, 1]
+  ]
+}
