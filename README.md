@@ -1,6 +1,5 @@
-# Algoritmos de busca no TRILHA
-
-Neste trabalho, usamos dois scripts para resolver os labirintos do TRILHA. O `menor_caminho.py` procura a rota com menos movimentos. Já o `menor_custo.py` leva em conta o terreno de cada célula. Em alguns mapas, vale a pena andar um pouco mais para evitar a água ou a lama.
+# Algoritmos de busca 
+Neste trabalho, usamos dois scripts para resolver os labirintos. O `menor_caminho.py` procura a rota com menos movimentos. Já o `menor_custo.py` leva em conta o terreno de cada célula. Em alguns mapas, vale a pena andar um pouco mais para evitar a água ou a lama.
 
 ## Como executar
 
